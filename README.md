@@ -9,18 +9,18 @@ git config --global user.email "...."
 git clone "Copy HTTPS link from github" 
 
 # status
-git status
+git status <br>
 -to check status of all the files created in vs code
 
 # add
-git add "yourfileName"
-git add . 
+git add "yourfileName" <br>
+git add . <br>
 - to add all files together
 
 # commit
-git commit -m "Write what changes you made as a message"
+git commit -m "Write what changes you made as a message" <br>
 - to add files in the system
 
 # push
-git push origin main
+git push origin main <br>
 - to add all files in the github repo main branch
