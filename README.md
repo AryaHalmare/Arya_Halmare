@@ -10,7 +10,7 @@ git clone "Copy HTTPS link from github"
 
 # status
 git status <br>
--to check status of all the files created in vs code
+- to check status of all the files created in vs code
 
 # add
 git add "yourfileName" <br>
@@ -24,3 +24,10 @@ git commit -m "Write what changes you made as a message" <br>
 # push
 git push origin main <br>
 - to add all files in the github repo main branch
+
+# init
+- Go to directory <br>
+git init <br>
+- Use to Create new github repository <br>
+
+
